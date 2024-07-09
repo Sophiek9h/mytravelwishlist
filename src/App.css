@@ -51,16 +51,24 @@ nav {
 
 .location-link {
   margin-top: 15px;
+  color: #918E9B;
 }
 
 .place {
   margin-top: 0px;
-  left: 184px;
-  top: 136px;
   font-style: normal;
   font-weight: 700;
   font-size: 25px;
-  line-height: 27px;
+  line-height: 35px;
   color: #2B283A;
+
+}
+
+.date{
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 12px;
+color: #2B283A;
 
 }
